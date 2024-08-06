@@ -1,6 +1,4 @@
-# ¡Hola! Soy [Tu Nombre]
-
-### UdeSA - Ingeniero en Inteligencia Artificial
+# ¡Hola! Soy Santino Galliano
 
 - 📚 Estudiante de Ingeniería en Inteligencia Artificial en la Universidad de San Andrés (UdeSA).
 <!--
