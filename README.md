@@ -1,5 +1,8 @@
-## Hi there 👋
+# ¡Hola! Soy [Tu Nombre]
 
+### UdeSA - Ingeniero en Inteligencia Artificial
+
+- 📚 Estudiante de Ingeniería en Inteligencia Artificial en la Universidad de San Andrés (UdeSA).
 <!--
 **SantinoGalliano/SantinoGalliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
