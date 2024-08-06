@@ -1,4 +1,4 @@
-# ¡Hola! Soy Santino Galliano
+# ¡Hola! Soy Santino Galliano 😃
 
 - 📚 Estudiante de Ingeniería en Inteligencia Artificial en la Universidad de San Andrés (UdeSA).
 <!--
