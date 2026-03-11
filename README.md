@@ -8,32 +8,25 @@ Me interesa construir soluciones con IA que tengan impacto real, combinando fund
 
 ## 🚀 Sobre mí
 
-- 📚 Actualmente enfocado en mi formación en IA, machine learning y desarrollo de software.
-- 🧠 Me gusta aprender construyendo proyectos prácticos.
-- 🤝 Abierto a colaborar en proyectos de tecnología, datos e inteligencia artificial.
-- 🌱 Siempre buscando mejorar en ingeniería, pensamiento analítico y trabajo en equipo.
+- Actualmente enfocado en mi formación en IA, machine learning y desarrollo de software.
+- Me gusta aprender construyendo proyectos prácticos.
+- Abierto a colaborar en proyectos de tecnología, datos e inteligencia artificial.
+- Siempre buscando mejorar en ingeniería, pensamiento analítico y trabajo en equipo.
 
 ---
 
 ## 🛠️ Tecnologías e intereses
 
-- **Lenguajes:** Python, SQL
+- **Lenguajes:** Python, C++, SQL
 - **Áreas:** Machine Learning, Data Science, IA aplicada
-- **Herramientas:** Git, GitHub, Jupyter
-
----
-
-## 📌 En qué estoy trabajando
-
-- Profundizando en conceptos de IA y desarrollo de proyectos académicos.
-- Construyendo mi portfolio técnico en GitHub.
+- **Herramientas:** Git, GitHub
 
 ---
 
 ## 📫 Contacto
 
-- LinkedIn: *(agregá tu URL)*
-- Email: *(agregá tu email profesional)*
+- LinkedIn: www.linkedin.com/in/santino-galliano-97b786376
+- Email:gallianosantino@gmail.com
 
 <!--
 **SantinoGalliano/SantinoGalliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
