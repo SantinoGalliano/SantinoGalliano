@@ -17,7 +17,7 @@ Me interesa construir soluciones con IA que tengan impacto real, combinando fund
 
 ## 🛠️ Tecnologías e intereses
 
-- **Lenguajes:** Python, C++, SQL
+- **Lenguajes:** Python, SQL
 - **Áreas:** Machine Learning, Data Science, IA aplicada
 - **Herramientas:** Git, GitHub
 
@@ -27,7 +27,3 @@ Me interesa construir soluciones con IA que tengan impacto real, combinando fund
 
 - LinkedIn: www.linkedin.com/in/santino-galliano-97b786376
 - Email:gallianosantino@gmail.com
-
-<!--
-**SantinoGalliano/SantinoGalliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
